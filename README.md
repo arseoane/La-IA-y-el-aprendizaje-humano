@@ -55,4 +55,8 @@ La IA está haciendo que aprender sea más **fácil**, **personal** y **accesibl
 - [Coursera](https://www.coursera.org)
 - [edX](https://www.edx.org)
 
+|A|B|
+| --- | --- |
+|Hola|Adios|
+
 ###### Hecho por [arseoane](https://github.com/arseoane/)
