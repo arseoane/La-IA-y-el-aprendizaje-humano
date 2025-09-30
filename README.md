@@ -55,8 +55,8 @@ La IA está haciendo que aprender sea más **fácil**, **personal** y **accesibl
 - [Coursera](https://www.coursera.org)
 - [edX](https://www.edx.org)
 
-|A|B|
+|Tipo de moneda|Dirección|
 | --- | --- |
-|Hola|Adios|
+|![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)|bc1qd3jfta4vrpft4a8tmw625c2w9kk76aaufduphn|
 
 ###### Hecho por [arseoane](https://github.com/arseoane/)
