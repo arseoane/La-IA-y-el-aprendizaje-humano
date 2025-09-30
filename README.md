@@ -11,9 +11,6 @@ La IA hace que estudiar sea más personal, como si tuvieras un profe solo para t
 - **Sugerir** ejercicios que te ayuden con lo que más te cuesta.
 - **Darte** comentarios al instante para que sepas en qué mejorar.
 
-
-![Anuncio](ad.jpg)
-
 Por ejemplo, si algo se te da mal, la IA te da más problemas para practicar justo lo que necesitas. Pero si ya controlas, te pone retos más difíciles.
 
 ### Menos trabajo para todo el mundo
