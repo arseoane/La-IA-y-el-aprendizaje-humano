@@ -1,6 +1,6 @@
 # La inteligencia artificial y cómo ayuda a estudiar
 
-![Imagen](https://i.pinimg.com/736x/a8/96/e7/a896e73429c7028d4dd5d0a5c53782ee.jpg)
+![Imagen](imagen.jpeg)
 
 ## ¿Cómo está cambiando la IA la forma de aprender?
 
